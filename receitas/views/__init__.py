@@ -1,0 +1,3 @@
+# inicializador
+
+from .receita import *
